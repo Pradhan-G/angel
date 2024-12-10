@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/angel/static/css/main.17575c46.css",
+    "main.js": "/angel/static/js/main.ec4bbead.js",
+    "index.html": "/angel/index.html",
+    "main.17575c46.css.map": "/angel/static/css/main.17575c46.css.map",
+    "main.ec4bbead.js.map": "/angel/static/js/main.ec4bbead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17575c46.css",
+    "static/js/main.ec4bbead.js"
+  ]
+}
