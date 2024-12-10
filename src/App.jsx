@@ -20,7 +20,7 @@ const locationData = [
     position: [26.792143, 82.200549], // Ayodhya
     name: 'Ayodhya Trip',
     photos: [
-      './photos/Ayodhya.png'
+      'photos/Ayodhya.png'
     ]
   },
   {
@@ -28,7 +28,7 @@ const locationData = [
     position: [43.774185, 11.258248], // Florence
     name: 'Florence Adventure',
     photos: [
-      './photos/Florence.png'
+      'photos/Florence.png'
     ]
   },
   {
@@ -36,7 +36,7 @@ const locationData = [
     position: [37.983519, 23.727638], //Athens
     name: 'Athens Trip',
     photos: [
-      "./photos/Athens.png"
+      "photos/Athens.png"
     ]
   },
   {
@@ -44,7 +44,7 @@ const locationData = [
     position: [46.204117, 6.143323], //Geneva
     name: 'Geneva Trip',
     photos: [
-      "./photos/Geneva.png"
+      "photos/Geneva.png"
     ]
   },
   {
@@ -52,7 +52,7 @@ const locationData = [
     position: [15.474315, 74.007024], //Goa
     name: 'Goa Trip',
     photos: [
-      "./photos/Goa.png"
+      "photos/Goa.png"
     ]
   },
   {
@@ -60,7 +60,7 @@ const locationData = [
     position: [8.090767, 98.902335], //Krabi
     name: 'Krabi Trip',
     photos: [
-      "./photos/Krabi.png"
+      "photos/Krabi.png"
     ]
   },
   {
@@ -68,7 +68,7 @@ const locationData = [
     position: [46.539680, 7.877101], //Lauterbrunen
     name: 'LauterBrunen Trip',
     photos: [
-      "./photos/lauterbrunen.png"
+      "photos/lauterbrunen.png"
     ]
   },
   {
@@ -76,7 +76,7 @@ const locationData = [
     position: [26.835496, 80.942853], //Lucknow
     name: 'Lucknow Trip',
     photos: [
-      "./photos/Lucknow.png"
+      "photos/Lucknow.png"
     ]
   },
   {
@@ -84,7 +84,7 @@ const locationData = [
     position: [3.202758, 73.220685], //Maldives
     name: 'Maldives Trip',
     photos: [
-      "./photos/Maldives.png"
+      "photos/Maldives.png"
     ]
   },
   {
@@ -92,7 +92,7 @@ const locationData = [
     position: [37.444486, 25.326171], //Mykonos
     name: 'Mykonos Trip',
     photos: [
-      "./photos/Mykonos.png"
+      "photos/Mykonos.png"
     ]
   },
   {
@@ -100,7 +100,7 @@ const locationData = [
     position: [46.772042, 8.437929], //Mt Titlis
     name: 'Mt Titlis Trip',
     photos: [
-      "./photos/Mt. Titlis.png"
+      "photos/Mt. Titlis.png"
     ]
   },
   {
@@ -108,7 +108,7 @@ const locationData = [
     position: [8.550529, 77.397016], //Noida
     name: 'Noida Trip',
     photos: [
-      "./photos/Noida.png"
+      "photos/Noida.png"
     ]
   },
   {
@@ -116,7 +116,7 @@ const locationData = [
     position: [7.882881, 98.391625], //Phuket
     name: 'Phuket Trip',
     photos: [
-      "./photos/Phuket.png"
+      "photos/Phuket.png"
     ]
   },
   {
@@ -124,7 +124,7 @@ const locationData = [
     position: [41.882864, 12.500283], //Rome
     name: 'Rome Trip',
     photos: [
-      "./photos/Rome.png"
+      "photos/Rome.png"
     ]
   },
   {
@@ -132,7 +132,7 @@ const locationData = [
     position: [36.390269, 25.459080], //Santorini
     name: 'Santorini Trip',
     photos: [
-      "./photos/Santorini.png"
+      "photos/Santorini.png"
     ]
   },
   {
@@ -140,7 +140,7 @@ const locationData = [
     position: [45.439115, 12.316993], //Venice
     name: 'Venice Trip',
     photos: [
-      "./photos/Venice.png"
+      "photos/Venice.png"
     ]
   },
   {
@@ -148,7 +148,7 @@ const locationData = [
     position: [45.976424, 7.658237], //Zermatt Matterhorn
     name: 'Zermatt Matterhorn Trip',
     photos: [
-      "./photos/Zermatt Matterhorn.png"
+      "photos/Zermatt Matterhorn.png"
     ]
   },
   {
@@ -156,7 +156,7 @@ const locationData = [
     position: [47.373692, 8.539823], //Zurich
     name: 'Zurich Trip',
     photos: [
-      "./photos/Zurich.png"
+      "photos/Zurich.png"
     ]
   },
 ];
@@ -215,7 +215,7 @@ function App() {
         alignItems: "center",
       }}>
         <div style={{backgroundColor:"none", display:'flex', flexDirection: 'column', alignContent: 'center', alignItems:  'center' }}>
-        <img src='./photos/Front.JPG' 
+        <img src='photos/Front.JPG' 
         style={{
           height: "120%",
           width: "100%",
