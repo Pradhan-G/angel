@@ -105,7 +105,7 @@ const locationData = [
   },
   {
     id: 12,
-    position: [8.550529, 77.397016], //Noida
+    position: [28.547814, 77.378133], //Noida
     name: 'Noida Trip',
     photos: [
       "photos/Noida.png"
